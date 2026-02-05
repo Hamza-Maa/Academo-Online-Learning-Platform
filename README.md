@@ -94,7 +94,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/academo.git
+   git clone https://github.com/Hamza-Maa/Academo---Online-Learning-Platform.git
    cd academo
    ```
 
@@ -216,13 +216,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-Built with ❤️ using Flutter and Dreamflow
+Built with ❤️ using Flutter
 
 ## 📧 Support
 
 - **Help Center**: In-app help section
 - **Issues**: Submit via the app's "Report a Problem" feature
-- **Email**: support@academo.com
+- **Email**: hamza.maatougui@outlook.com
 
 ## 🙏 Acknowledgments
 
