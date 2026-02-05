@@ -94,7 +94,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Hamza-Maa/Academo---Online-Learning-Platform.git
+   git clone https://github.com/Hamza-Maa/Academo-Online-Learning-Platform.git
    cd academo
    ```
 
